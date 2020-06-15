@@ -82,8 +82,6 @@ def adding_matz
       }
     }
 
-programmer_hash
-
 puts programmer_hash
 end
 
